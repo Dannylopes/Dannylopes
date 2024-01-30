@@ -28,10 +28,19 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   
   
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
+
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mi-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
