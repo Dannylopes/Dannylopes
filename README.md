@@ -19,7 +19,6 @@ Possuo um perfil autodidata e analítico, o que me permite entender o problema e
 Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros e Analistas de  Dados, Data Product Ownners e Agilistas. Equipe essa que dá sustenta uma plataforma de dados corporativos que proporciona às áreas de negócios a tomada de decisões estratégicas orientadas a dados.
 
 
-
 </div>
 <br>
 <div align="center">
