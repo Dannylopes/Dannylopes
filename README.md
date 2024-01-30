@@ -18,6 +18,9 @@ Possuo um perfil autodidata e analítico, o que me permite entender o problema e
 
 Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros e Analistas de  Dados, Data Product Ownners e Agilistas. Equipe essa que dá sustenta uma plataforma de dados corporativos que proporciona às áreas de negócios a tomada de decisões estratégicas orientadas a dados.
 
+
+
+<!--
 </div>
 <br>
 <div align="center">
@@ -25,6 +28,9 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=millenagena&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=millenagena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
+
+
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
