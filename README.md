@@ -1,7 +1,7 @@
 ### Hello World, I am Daniel Mota Lopes
 
  <!--img src="https://daxg39y63pxwu.cloudfront.net/images/blog/data-engineering-skills/Essential_Data_Engineer_Skills.png" title="capa" alt="capa" /> --> 
-<img src="https://photos.app.goo.gl/hwHgYHEfwXtemVBi7" title="capa" alt="capa" />
+<img src="https://lh3.googleusercontent.com/pw/ABLVV86LhRtesSB4N3IwpNuHXCUk6UmVueCwMFwBWj6HW7MzqP2GydeS-wJdiwO_iPyIiYoqWJWACVKA7xD6wwXK21cXprBndCLQD7XcHT66pCw-c21cKG-ZlR7YCYkXax97HkwLN5thHjYOj-l4MOw2cvVDpQ=w2133-h541-s-no-gm?authuser=0" title="capa" alt="capa" />
 
 
 - 🔭 I’m currently working with Data Engineering
