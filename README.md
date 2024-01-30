@@ -12,7 +12,7 @@
 </div>
 <div align="justify">
 
-Com mais de 9 anos de experiência em Projetos de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados, utilizando conhecimentos avançados em Power BI, SQL e Python. 
+Com mais de 9 anos de experiência em Projetos de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados.
 
 Possuo um perfil autodidata e analítico, o que me permite entender o problema e propor soluções com facilidade, rapidez e eficiência. 
 
