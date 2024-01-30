@@ -12,17 +12,11 @@
 </div>
 <div align="justify">
 
-Com mais de 6 anos de experiência em Analise de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados, utilizando conhecimentos avançados em Power BI, SQL e Python. 
+Com mais de 9 anos de experiência em Projetos de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados, utilizando conhecimentos avançados em Power BI, SQL e Python. 
 
-Altamente autodidata e com um perfil analítico, o que me permiti entender o problema e propor soluções com facilidade, rapidez e eficiência. 
+Possuo um perfil autodidata e analítico, o que me permite entender o problema e propor soluções com facilidade, rapidez e eficiência. 
 
-Atuo como Coordenador de Planejamento e Business Intelligence, principal área de suporte à tomada de decisões estratégicas do empreendimento, liderando o time de analistas e administrando o Data Warehouse, o CRM SalesForce e sendo responsável pela criação de Dashboards no Power BI com foco em automação de processos, acompanhamentos de KPIs e previsão de cenários, o que gera redução de custos e potencializa estratégias de negócios assertivas na organização, refletindo no aumento de receita.
-
-Desenvolvedor de Power BI com mais de 60 dashboards desenvolvidos que hoje geram valor ao negócio, automatizando processos, oferecendo insights e contribuindo para uma rápida tomada de decisão para toda a organização ao prever cenários críticos com antecedência.
-
-Participei da implantação dos processos da central de Revenue Management da Atlântica Hospitality International, sendo responsável pela criação dos relatórios estratégicos no Power BI que hoje englobam os processos analíticos diários do setor.
-
-Conhecimento do ecossistema Hadoop, Spark e PySpark.
+Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros e Analistas de  Dados, Data Product Ownners e Agilistas. Equipe essa que dá sustenta uma plataforma de dados corporativos que proporciona às áreas de negócios a tomada de decisões estratégicas orientadas a dados.
 
 </div>
 <br>
