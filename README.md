@@ -1,6 +1,6 @@
 ### Hello World, I am Daniel Mota Lopes
 
-  <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/data-engineering-skills/Essential_Data_Engineer_Skills.png" title="capa" alt="capa" />
+  <img src="https://cdn.sanity.io/images/tlr8oxjg/production/127c1f769355e645e449045e7d9088d3f55c0397-1456x816.png?w=3840&q=80&fit=clip&auto=format" title="capa" alt="capa" />
 
 
 - 🔭 I’m currently working with Data Engineering
