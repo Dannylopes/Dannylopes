@@ -28,7 +28,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   
   
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=summer"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=night"/>
 </div>
 
   
