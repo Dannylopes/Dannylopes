@@ -30,7 +30,8 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 </div>
 
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block; text-align: center;">
+  <br>
   
   <img align="center" alt="Danny-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
@@ -46,6 +47,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   
   <img align="center" alt="Mi-Html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
+
  
 
 <div> 
