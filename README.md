@@ -65,9 +65,9 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-Blank" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-SQL" height= "3%" width="3%" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
   
-  <!--Blank Image-->
+  <!--Blank Image
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-
+-->
 
   
 </div>
