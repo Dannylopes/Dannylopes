@@ -50,6 +50,6 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   
   <img align="center" alt="Danny-PowerBi" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
 
-  <img align="center" alt="Danny-PowerBi2" style="max-width: "3%"; max-height: "3%"; src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+  <img alt="Danny-PowerBi" style="max-width: 3%; max-height: 3%;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg">
 </div>
 
