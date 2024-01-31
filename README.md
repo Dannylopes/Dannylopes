@@ -24,7 +24,7 @@
   
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-Python" height= "5%" width="5%" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png">
+  <img align="center" alt="Danny-Python" height= "4%" width="4%" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png">
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
@@ -32,7 +32,7 @@
 
 <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-Tableau" height="15%" width="15%" src="https://lh3.googleusercontent.com/pw/ABLVV84dF_xC61bhZEeAx0YB3y_vmVHGe4uvmFwerlst5aTdstzSKw4J0gwWZzOkB3SU2MVeIfL7E_24HV-921XJDf8JqBpvF3IfGhVSo5n0Jjb2nXI2suM4ciaopTsnRB52uPN6fpMlr7KspLZRJCFKgRwpRA=w2732-h562-s-no-gm?authuser=0">
+  <img align="center" alt="Danny-Tableau" height="12%" width="12%" src="https://lh3.googleusercontent.com/pw/ABLVV84dF_xC61bhZEeAx0YB3y_vmVHGe4uvmFwerlst5aTdstzSKw4J0gwWZzOkB3SU2MVeIfL7E_24HV-921XJDf8JqBpvF3IfGhVSo5n0Jjb2nXI2suM4ciaopTsnRB52uPN6fpMlr7KspLZRJCFKgRwpRA=w2732-h562-s-no-gm?authuser=0">
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
