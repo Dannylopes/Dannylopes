@@ -54,7 +54,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
+  <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://miro.medium.com/v2/resize:fit:638/1*laCIIm8DvCnO-UI-IevfHg.png">
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
