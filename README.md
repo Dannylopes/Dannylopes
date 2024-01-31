@@ -54,19 +54,20 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 </div>
 -->
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; text-align: center; margin: 100px;">
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%; text-align: center; margin: 100px;">
   <br>
 
-  <img align="center" alt="Danny-Azure" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
+  <img align="center" alt="Danny-Azure" style="flex: 1;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
-  <img align="center" alt="Danny-AWS" height="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png">
+  <img align="center" alt="Danny-AWS" style="flex: 1;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png">
 
-  <img align="center" alt="Danny-GCP" height="20" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
+  <img align="center" alt="Danny-GCP" style="flex: 1;" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
   
-  <img align="center" alt="Danny-Tableau" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
+  <img align="center" alt="Danny-Tableau" style="flex: 1;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
   
-  <img align="center" alt="Danny-PowerBi" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Danny-PowerBi" style="flex: 1;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
 </div>
+
 
 
 
