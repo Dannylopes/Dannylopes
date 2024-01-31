@@ -42,7 +42,10 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 </div>
 
  
-<div style="display: inline_block; text-align: center;">
+<div style="display: inline_block;
+ text-align: center;"
+ <div align = "center"
+ >
   <br>
 
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
