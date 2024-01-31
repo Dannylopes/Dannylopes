@@ -51,6 +51,7 @@
 Com mais de 9 anos de experiência em Projetos de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados.
 Possuo um perfil autodidata e analítico, o que me permite entender o problema e propor soluções com facilidade, rapidez e eficiência.
 Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros e Analistas de  Dados, Data Product Ownners e Agilistas. Equipe essa que sustenta uma plataforma de dados corporativos que proporciona às áreas de negócios tomadas de decisões estratégicas orientadas a dados.
+ </div>
 <!--Blank Image-->
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;> <br>
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> </div>
