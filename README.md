@@ -43,7 +43,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
-  <img align="center" alt="Danny-GCP" height="5%" width="5%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-aibxb&psig=AOvVaw1SXNm5e4ToE_v5nPqGlk6c&ust=1706801825605000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDf8Lb6h4QDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Danny-GCP" height="5%" width="5%" src="https://s3-alpha.figma.com/hub/file/2815777610/f48aadd7-3fa2-4218-bebf-597021659f2b-cover.png">
 
   <img align="center" alt="Danny-AWS" height="5%" width="5%" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
   
