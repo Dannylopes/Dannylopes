@@ -39,9 +39,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 </div>
 
  
-<div style="display: inline_block;
- text-align: center;"
- <div align = "center"
+<div style="display: inline_block; text-align: center;" align = "center"
  >
   <br>
 
