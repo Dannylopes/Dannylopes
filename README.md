@@ -41,9 +41,8 @@
   <img align="center" alt="Danny-Spark" height="10%" width="10%" src="https://lh3.googleusercontent.com/pw/ABLVV86D5TLiefxNiUEfjGeX0fnMKqqT-iJWiFYB1wpEm5CMztglZtCP4Sn7e_9VnyJ2Phoglahig4W97tBPDjTlmz5yH_QgplJJ3dptjHXOR1Q7eyVXCKasdnlJKMzRrAhR5xmvCm_OPNF7A4Uy6j7Tv2he3g=w845-h439-s-no-gm?authuser=0">
 </div>
 
-<div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
-<br>
- <!--Blank Image-->
+<!--Blank Image-->
+<div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;> <br>
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> </div>
 <!--========================================================================================================================================================================-->
 <!--TEXT--> 
