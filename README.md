@@ -28,7 +28,7 @@
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-Spark" height="10%" width="10%" src="https://lh3.googleusercontent.com/pw/ABLVV86D5TLiefxNiUEfjGeX0fnMKqqT-iJWiFYB1wpEm5CMztglZtCP4Sn7e_9VnyJ2Phoglahig4W97tBPDjTlmz5yH_QgplJJ3dptjHXOR1Q7eyVXCKasdnlJKMzRrAhR5xmvCm_OPNF7A4Uy6j7Tv2he3g=w845-h439-s-no-gm?authuser=0">
+  <img align="center" alt="Danny-Spark" height="8%" width="8%" src="https://lh3.googleusercontent.com/pw/ABLVV86D5TLiefxNiUEfjGeX0fnMKqqT-iJWiFYB1wpEm5CMztglZtCP4Sn7e_9VnyJ2Phoglahig4W97tBPDjTlmz5yH_QgplJJ3dptjHXOR1Q7eyVXCKasdnlJKMzRrAhR5xmvCm_OPNF7A4Uy6j7Tv2he3g=w845-h439-s-no-gm?authuser=0">
 
 <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
