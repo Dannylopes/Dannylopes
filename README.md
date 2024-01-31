@@ -39,9 +39,8 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 </div>
 
  
-<div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;
- >
-  <br>
+<div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
+<br>
 
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
@@ -52,16 +51,4 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-PowerBi" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
 
   </div>
-  <!--
-  <img align="center" alt="Mi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-  
-  <img align="center" alt="Mi-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
-  
-  <img align="center" alt="Mi-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  
-  <img align="center" alt="Mi-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  
-  <img align="center" alt="Mi-Html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
-</div>
--->
