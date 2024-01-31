@@ -69,7 +69,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-Python" height= "5%" width="5%" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png">
 
   <!--Blank Image-->
-  <img align="center" alt="Danny-Azure" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Azure" height="3%" width="3%" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png">
 </div>
 
 
