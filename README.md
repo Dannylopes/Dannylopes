@@ -58,7 +58,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-PowerBi" height= "3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Danny-PowerBi" height= "3%" width="3%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
 
   <!--Blank Image-->
   
