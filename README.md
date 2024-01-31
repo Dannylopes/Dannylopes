@@ -9,7 +9,7 @@
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
 <br>
  <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> 
+  <!--<img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> -->
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
   <!--Blank Image-->
