@@ -8,8 +8,6 @@
 <!--STACK ICONS-->
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
 <br>
- <!--Blank Image-->
-  <!--<img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> -->
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
   <!--Blank Image-->
@@ -40,6 +38,7 @@
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-pbi" height="13%" width="13%" src="https://lh3.googleusercontent.com/pw/ABLVV85wLh0gkp78knEH2mIA0pmNgup99mb6wiRTe0rsUM_3Ntp4Xj1X3FE-FMPVryCP7d3Sk1WCdXkOaaycN10bWhzCo4qdzeQRbt-jzu5VSGDywCCpfx4yV_hBKBPnPdDbVqVp02QcEWWR7ULZFjySamSW8A=w2049-h535-s-no-gm?authuser=0">
 </div>
+
 <!--Blank Image-->
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;> <br>
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> </div>
