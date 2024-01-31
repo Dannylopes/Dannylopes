@@ -57,11 +57,8 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://miro.medium.com/v2/resize:fit:638/1*laCIIm8DvCnO-UI-IevfHg.png">
 
   <!--Blank Image-->
-  
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-pbi" height="13%" width="13%" src="https://lh3.googleusercontent.com/pw/ABLVV85wLh0gkp78knEH2mIA0pmNgup99mb6wiRTe0rsUM_3Ntp4Xj1X3FE-FMPVryCP7d3Sk1WCdXkOaaycN10bWhzCo4qdzeQRbt-jzu5VSGDywCCpfx4yV_hBKBPnPdDbVqVp02QcEWWR7ULZFjySamSW8A=w2049-h535-s-no-gm?authuser=0">
-  <!--
-  <img align="center" alt="Danny-PowerBi" height= "10%" width="10%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">-->
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
@@ -72,6 +69,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-Python" height= "5%" width="5%" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png">
 
   <!--Blank Image-->
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-Spark" height="10%" width="10%" src="https://lh3.googleusercontent.com/pw/ABLVV86D5TLiefxNiUEfjGeX0fnMKqqT-iJWiFYB1wpEm5CMztglZtCP4Sn7e_9VnyJ2Phoglahig4W97tBPDjTlmz5yH_QgplJJ3dptjHXOR1Q7eyVXCKasdnlJKMzRrAhR5xmvCm_OPNF7A4Uy6j7Tv2he3g=w845-h439-s-no-gm?authuser=0">
 </div>
 
