@@ -48,6 +48,8 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-PBI" height="10%" width="10%" src="https://camo.githubusercontent.com/9613f1cdf1bf73ba580b0cb1d052d1f93f5f4ff24856938598dc8eb188ce2f7f/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f506f77657225323042492d3041304331303f6c6f676f3d6e65775f706f7765725f62695f6c6f676f267374796c653d666f722d7468652d6261646765">
   
   <img align="center" alt="Danny-Python" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
   
   <img align="center" alt="Mi-Jupyter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   
