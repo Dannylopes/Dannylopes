@@ -59,7 +59,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <!--Blank Image-->
   
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-pbi" height="10%" width="10%" src="https://lh3.googleusercontent.com/pw/ABLVV85wLh0gkp78knEH2mIA0pmNgup99mb6wiRTe0rsUM_3Ntp4Xj1X3FE-FMPVryCP7d3Sk1WCdXkOaaycN10bWhzCo4qdzeQRbt-jzu5VSGDywCCpfx4yV_hBKBPnPdDbVqVp02QcEWWR7ULZFjySamSW8A=w2049-h535-s-no-gm?authuser=0">
+  <img align="center" alt="Danny-pbi" height="13%" width="13%" src="https://lh3.googleusercontent.com/pw/ABLVV85wLh0gkp78knEH2mIA0pmNgup99mb6wiRTe0rsUM_3Ntp4Xj1X3FE-FMPVryCP7d3Sk1WCdXkOaaycN10bWhzCo4qdzeQRbt-jzu5VSGDywCCpfx4yV_hBKBPnPdDbVqVp02QcEWWR7ULZFjySamSW8A=w2049-h535-s-no-gm?authuser=0">
   <!--
   <img align="center" alt="Danny-PowerBi" height= "10%" width="10%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">-->
 
