@@ -46,6 +46,8 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <br>
 
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
+
+  <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
   
   <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
   
