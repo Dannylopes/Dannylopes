@@ -47,8 +47,6 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
   
-  <img align="center" alt="Danny-Python" height="10%" width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
   
   <img align="center" alt="Danny-PowerBi" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
