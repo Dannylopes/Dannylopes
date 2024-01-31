@@ -46,7 +46,7 @@
 <!--========================================================================================================================================================================-->
 <!--TEXT--> 
 </div>
-<div align="justified">
+<div align="justify">
   <p>Com mais de 9 anos de experiência em Projetos de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através de grandes volumes de dados.</p>
   <p>Possuo um perfil autodidata e analítico, o que me permite entender o problema e propor soluções com facilidade, rapidez e eficiência.</p>
   <p>Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada por Engenheiros e Analistas de Dados, Data Product Owners e Agilistas. Equipe essa que sustenta uma plataforma de dados corporativos que fornece às áreas de negócios tomadas de decisões estratégicas voltadas para dados.</p>
