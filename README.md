@@ -54,7 +54,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 </div>
 -->
 
-<div style="display: flex; justify-content: center; width: 100%; text-align: center; margin: 100px;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; text-align: center; margin: 100px;">
   <br>
 
   <img align="center" alt="Danny-Azure" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
@@ -67,6 +67,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   
   <img align="center" alt="Danny-PowerBi" height="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
 </div>
+
 
 
 
