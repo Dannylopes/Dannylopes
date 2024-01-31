@@ -57,8 +57,11 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://miro.medium.com/v2/resize:fit:638/1*laCIIm8DvCnO-UI-IevfHg.png">
 
   <!--Blank Image-->
+  
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-PowerBi" height= "10%" width="10%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src=" https://lh3.googleusercontent.com/pw/ABLVV86FzekVOCRTV3w23G9pS2jM-d0pjL_7KqY6v_-HcnUi3u-sg-Fq81lAKLSp9WQxwP-rR3iSJ_Dg_ofMLm2iayYJE1vo9ndRrR61k4WM1cIWR_ma4rqKYJ4WLxjIzd5bfn7-vcSweIabWAigg-JdWWL2rA=w892-h233-s-no-gm?authuser=0">
+  <!--
+  <img align="center" alt="Danny-PowerBi" height= "10%" width="10%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">-->
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
