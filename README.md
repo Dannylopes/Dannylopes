@@ -18,7 +18,7 @@
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-GCP" height="12%" width="12%" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png">
+  <img align="center" alt="Danny-GCP" height="12%" width="12%" src="https://lh3.googleusercontent.com/pw/ABLVV86hg6JEfg4WebXLVdr0l9siwZQuD6qimjm-e-WOgQ2cPAn_qIUxtOqpqHmH6DKg_-PURAlaVrXIg7TBdYGeGkfMZMlHXn16FeTh9kOpsd87MFAmyGl_mL2TUzMiM6ndXf0Yfwiov4RVH1gImxS06JBFcg=w1824-h899-s-no-gm?authuser=0">
 
   <!--Blank Image-->
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
