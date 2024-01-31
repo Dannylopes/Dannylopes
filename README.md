@@ -61,9 +61,8 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Danny-PowerBi" height= "10%" width="10%" src="https://seeklogo.com/images/P/power-bi-microsoft-logo-E4FC8DE4A9-seeklogo.com.png">
 
   <!--Blank Image-->
-  
   <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Danny-SQL" height= "3%" width="3%" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
+  <img align="center" alt="Danny-SQL" height= "5%" width="5%" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
   
   <!--Blank Image-->
   <img align="center" alt="Danny-Azure" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
