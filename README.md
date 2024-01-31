@@ -41,32 +41,32 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
 <br>
  <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="2%" width="2%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
   <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="2%" width="2%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-AWS" height="7%" width="7%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png">
 
   <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-GCP" height="5%" width="5%" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
 
   <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-Tableau" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Tableau_Logo.png/1200px-Tableau_Logo.png">
 
   <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-PowerBi" height= "3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
 
   <!--Blank Image-->
   
-  <img align="center" alt="Danny-Blank" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
   <img align="center" alt="Danny-SQL" height= "3%" width="3%" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
   
   <!--Blank Image-->
-  <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Azure" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
 
 
   
