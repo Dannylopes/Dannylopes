@@ -1,13 +1,15 @@
 ### Daniel Mota Lopes
 
- <!--img src="https://daxg39y63pxwu.cloudfront.net/images/blog/data-engineering-skills/Essential_Data_Engineer_Skills.png" title="capa" alt="capa" /> --> 
+<!--========================================================================================================================================================================-->
+<!--CAPA/BACKGROUND-->
 <img src="https://lh3.googleusercontent.com/pw/ABLVV86LhRtesSB4N3IwpNuHXCUk6UmVueCwMFwBWj6HW7MzqP2GydeS-wJdiwO_iPyIiYoqWJWACVKA7xD6wwXK21cXprBndCLQD7XcHT66pCw-c21cKG-ZlR7YCYkXax97HkwLN5thHjYOj-l4MOw2cvVDpQ=w2133-h541-s-no-gm?authuser=0" title="capa" alt="capa" />
 
+<!--========================================================================================================================================================================-->
 <!--STACK ICONS-->
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
 <br>
  <!--Blank Image-->
-  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> 
   <img align="center" alt="Danny-Azure" height="10%" width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png">
 
   <!--Blank Image-->
@@ -39,15 +41,20 @@
   <img align="center" alt="Danny-Spark" height="10%" width="10%" src="https://lh3.googleusercontent.com/pw/ABLVV86D5TLiefxNiUEfjGeX0fnMKqqT-iJWiFYB1wpEm5CMztglZtCP4Sn7e_9VnyJ2Phoglahig4W97tBPDjTlmz5yH_QgplJJ3dptjHXOR1Q7eyVXCKasdnlJKMzRrAhR5xmvCm_OPNF7A4Uy6j7Tv2he3g=w845-h439-s-no-gm?authuser=0">
 </div>
 
-
-  
+<div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
+<br>
+ <!--Blank Image-->
+  <img align="center" alt="Danny-Blank" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png"> </div>
+<!--========================================================================================================================================================================-->
+<!--TEXT--> 
 </div>
 <div align="justify">
 Com mais de 9 anos de experiência em Projetos de Dados, capaz de resolver problemas complexos e identificar oportunidades de negócios através grandes volumes de dados.
 Possuo um perfil autodidata e analítico, o que me permite entender o problema e propor soluções com facilidade, rapidez e eficiência. 
 Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros e Analistas de  Dados, Data Product Ownners e Agilistas. Equipe essa que sustenta uma plataforma de dados corporativos que proporciona às áreas de negócios tomadas de decisões estratégicas orientadas a dados.
 
-
+<!--========================================================================================================================================================================-->
+<!--GITHUB STATS-->
 </div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
 <br>
 <div align="center">
@@ -58,7 +65,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dannylopes&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-
+<!--========================================================================================================================================================================-->
 <!--SOCIAL MEDIA/EMAIL-->
 <div>
 <div align = "center">
