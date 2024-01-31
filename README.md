@@ -54,6 +54,7 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   
   <img align="center" alt="Danny-PowerBi" height="3%" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png">
   
+  <!--
   <img align="center" alt="Mi-Pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
   
   <img align="center" alt="Mi-Numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg">
@@ -63,4 +64,6 @@ Atuo como Tech Lead em uma equipe de dados multidisciplinar, formada Engenheiros
   <img align="center" alt="Mi-Postgresql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   
   <img align="center" alt="Mi-Html" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+-->
+
 </div>
