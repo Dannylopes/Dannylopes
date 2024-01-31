@@ -76,7 +76,7 @@
 <!--SOCIAL MEDIA/EMAIL-->
 
 <div style="display: inline_block; text-align: center;" align = "center"; margin: 100px;>
-  ## SIGA-ME NAS REDES SOCIAIS
+  ### SIGA-ME NAS REDES SOCIAIS
 
 <div>
 <div align = "center">
